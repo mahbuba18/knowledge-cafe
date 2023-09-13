@@ -1,0 +1,53 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.ibb.co/wdBkQ5H/img-01.jpg",
+      "title": "The Mystery of the Enchanted Forest",
+      "author": "Emily Johnson",
+      "author_img": "https://example.com/author1.jpg",
+      "posted_Date": "September 13, 2023",
+      "reading_Time": 8,
+      "hashtags": ["Adventure", "Fantasy", "Nature"]
+    },
+    {
+      "id": 67890,
+      "cover": "https://i.ibb.co/1qWnZY5/img-02.jpg",
+      "title": "Cooking Extravaganza: A Culinary Journey",
+      "author": "Michael Smith",
+      "author_img": "https://example.com/author2.jpg",
+      "posted_date": "September 12, 2023",
+      "reading_time": 10,
+      "hashtags": ["Cooking", "Foodie", "Recipes"]
+    },
+    {
+      "id": 24680,
+      "cover": "https://i.ibb.co/MkLWMCL/img-03.jpg",
+      "title": "Tech Trends 2023: A Glimpse into the Future",
+      "author": "Sarah Lee",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "September 11, 2023",
+      "reading_time": 12,
+      "hashtags": ["Technology", "Innovation", "Future"]
+    },
+    {
+      "id": 13579,
+      "cover": "https://i.ibb.co/GtNNfX5/img-04.jpg",
+      "title": "Exploring the Underwater Wonders",
+      "author": "David Anderson",
+      "author_img": "https://example.com/author4.jpg",
+      "posted_date": "September 10, 2023",
+      "reading_time": 7,
+      "hashtags": ["ScubaDiving", "MarineLife", "Adventure"]
+    },
+    {
+      "id": 54321,
+      "cover": "https://i.ibb.co/ChrkG3s/img-05.jpg",
+      "title": "Mindfulness Meditation: Finding Peace Within",
+      "author": "Maria Rodriguez",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "September 9, 2023",
+      "reading_time": 15,
+      "hashtags": ["Mindfulness", "Meditation", "Wellness"]
+    }
+  ]
+  
